@@ -1,4 +1,4 @@
-# **Documentação do Projeto - Sistema de Cálculos**
+# **Documentação do Projeto - Sistema de Locadora de Automoveis**
 
 ## 🛠️ **Tecnologias Utilizadas**
 
