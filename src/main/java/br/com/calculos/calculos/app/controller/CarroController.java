@@ -1,7 +1,6 @@
 package br.com.calculos.calculos.app.controller;
 
 import br.com.calculos.calculos.app.entity.Carro;
-import br.com.calculos.calculos.app.entity.Resultado;
 import br.com.calculos.calculos.app.service.CarroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

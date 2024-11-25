@@ -2,11 +2,9 @@ package br.com.calculos.calculos.app.service;
 
 
 import br.com.calculos.calculos.app.entity.Carro;
-import br.com.calculos.calculos.app.entity.Resultado;
 import br.com.calculos.calculos.app.repository.CarroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.w3c.dom.ls.LSException;
 
 import java.util.List;
 
